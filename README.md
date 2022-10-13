@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**harpreetkour35/harpreetkour35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻  About Me
 
-Here are some ideas to get you started:
+🤔   Frontend developer, learning something new each day and developing software solutions.
+💼   Actively looking for internship opportunities.
+🌱   Learning more about Data structures, Algorithm and frontend frameworks.
+✍️    Love to hangout with friends, play piano and being organised.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🛠  Tech Stack
+
+💻   HTML5 CSS JavaScript React.JS Typescript
+🛢   Firebase MongoDB
+⚙️    Git GitHub 
+
+
+📫 How to reach me: harpreetkour35@gmail.com
